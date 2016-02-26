@@ -1,7 +1,0 @@
-[09-Oct-2015 08:40:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
-[19-Oct-2015 07:01:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
-[30-Oct-2015 05:31:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
-[12-Nov-2015 09:00:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
-[17-Feb-2016 14:20:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
-[25-Feb-2016 06:21:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
-[25-Feb-2016 06:21:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/public_html/wp-content/themes/eventmb/index.php on line 1
